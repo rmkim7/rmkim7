@@ -1,4 +1,4 @@
-### rmkim7 👋
+### rmkim7
 
 Currently learning on Data Analysis, Python, Machine Learning.
 
