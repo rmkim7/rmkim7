@@ -1,8 +1,14 @@
-### rmkim7
+### rmkim7 
 
-Currently learning on Data Analysis, Python, Machine Learning.
+Currently learning on Data Analysis, Python, Machine Learning.   :books:   
 
 
+:arrow_forward: SSAC Business Bigdata Analyst training course (Jan 2021 - Mar 2021)
+
+
+**wanna see my projects** :point_right: [**Project**](https://github.com/rmkim7/Project)
+
+![rmkim7's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmkim7&show_icons=true&theme=radical)
 
 <!--
 **rmkim7/rmkim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
