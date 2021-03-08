@@ -1,4 +1,8 @@
-### Hi there 👋
+### rmkim7 👋
+
+Currently learning on Data Analysis, Python, Machine Learning.
+
+
 
 <!--
 **rmkim7/rmkim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
