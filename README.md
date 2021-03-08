@@ -3,12 +3,21 @@
 Currently learning on Data Analysis, Python, Machine Learning.   :books:   
 
 
-:arrow_forward: SSAC Business Bigdata Analyst training course (Jan 2021 - Mar 2021)
+
+:arrow_forward: SSAC Business Bigdata Analyst training course (Jan 2021 - Mar 2021)  
 
 
 **wanna see my projects** :point_right: [**Project**](https://github.com/rmkim7/Project)
 
+
+**My Blog** :point_right:  ![My blog](https://img.shields.io/badge/Blog-99ffcc?url=https://rmkim7.github.io/2021/03/03/hello-world/)
+
 ![rmkim7's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmkim7&show_icons=true&theme=radical)
+
+Languages and Tools:  
+![PYTHON](https://img.shields.io/badge/PYTHON-0696d7)
+
+
 
 <!--
 **rmkim7/rmkim7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
