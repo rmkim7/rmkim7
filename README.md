@@ -1,6 +1,6 @@
 ### rmkim7 
 
-Currently learning on ![Data Analysis](https://img.shields.io/badge/Data_Analysis-28d4b4) ![PYTHON](https://img.shields.io/badge/PYTHON-0696d7) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-ada9b0)   :books:   
+Currently learning on ![HTML](https://img.shields.io/badge/Data_Analysis-28d4b4) ![CSS](https://img.shields.io/badge/PYTHON-0696d7) ![Javascript](https://img.shields.io/badge/Machine_Learning-ada9b0)   :books:   
 
 
 - :arrow_forward: SSAC Business Bigdata Analyst training course (Jan 2021 - Mar 2021)  
